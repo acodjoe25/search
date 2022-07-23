@@ -1,0 +1,14 @@
+---
+:id: 125224453
+:submitters:
+- :name: Jessica Ni
+  :email: jessica_ni@brown.edu
+- :name: Ariana Codjoe
+  :email: ariana_codjoe@brown.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-05-04 18:54:53.001859000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-05-04 11:54:53.001859000 Z
+:status: processed
+:score: 54.0
